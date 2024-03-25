@@ -1,0 +1,28 @@
+.paragraph-box{
+		width: 500px;
+  padding: 5px;
+  margin: 10px;
+  background:rgba(255,255,255,.4);
+  bottom:10000px;
+	}
+		body {
+			background: black;
+            background-image: url(9b23c2c809241fa1167c0bb355e6c209.jpg);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size:3000px 3000px ; 
+            background-position: center;
+        }
+    	p { ;
+    		font-size:30px;
+    		font-family: Bookman Old Style;
+    	}
+
+    	video{
+    		width: 900px;
+    		height: 600px;
+		position: center;
+    	  
+    	  
+
+    	}
